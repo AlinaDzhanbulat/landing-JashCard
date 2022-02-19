@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/landing-JashCard/static/css/main.d966770e.css",
+    "main.js": "/landing-JashCard/static/js/main.7fa269cb.js",
+    "static/media/mainImage.png": "/landing-JashCard/static/media/mainImage.46e86eaa54280c44da36.png",
+    "static/media/cardface.png": "/landing-JashCard/static/media/cardface.5c0829142235abf05a8b.png",
+    "static/media/cardback.png": "/landing-JashCard/static/media/cardback.a71e7e7d46c2c759b1a2.png",
+    "static/media/3.png": "/landing-JashCard/static/media/3.6f27140627bae6c48286.png",
+    "static/media/1.png": "/landing-JashCard/static/media/1.fa1aae1f71f49465c027.png",
+    "static/media/2.png": "/landing-JashCard/static/media/2.fa5b774d705ce2453998.png",
+    "static/media/4.png": "/landing-JashCard/static/media/4.52fa8052f2772e8d4572.png",
+    "static/media/logo.png": "/landing-JashCard/static/media/logo.f7107c87dcedb11762fe.png",
+    "index.html": "/landing-JashCard/index.html",
+    "main.d966770e.css.map": "/landing-JashCard/static/css/main.d966770e.css.map",
+    "main.7fa269cb.js.map": "/landing-JashCard/static/js/main.7fa269cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d966770e.css",
+    "static/js/main.7fa269cb.js"
+  ]
+}
