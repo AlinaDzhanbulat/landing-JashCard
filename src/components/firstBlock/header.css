@@ -1,0 +1,25 @@
+.headerCont {
+    margin: 10px auto;
+    max-width: 85%;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+header .menu {
+    list-style-type: none;
+}
+
+header .menu li {
+    display: inline-block;
+    margin-right: 40px;
+}
+header .menu li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.minCont {
+    display: flex;
+    margin-left: 300px;
+    gap: 10px;
+}
